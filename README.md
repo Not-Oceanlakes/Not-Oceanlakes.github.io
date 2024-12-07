@@ -1,4 +1,4 @@
-<div align="center"><a href="https://nettleweb.com/" target="_blank" rel="noopener nofollow"><img src="https://nettleweb.com/res/logo.svg" width="768" height="256" draggable="false" alt="NettleWeb Logo" /></a></div>
+<div align="center"><a href="https://not-oceanlakes.github.io/" target="_blank" rel="noopener nofollow"><img src="https://nettleweb.com/res/logo.svg" width="768" height="256" draggable="false" alt="NettleWeb Logo" /></a></div>
 
 # NettleWeb
 [![Discord Shield](https://img.shields.io/discord/998658232207814667?style=for-the-badge&logo=Discord&logoColor=%23ffffff&label=Discord&labelColor=%23303030&color=%23004080
@@ -8,7 +8,7 @@ NettleWeb (formerly WhiteSpider) is a free, open-source unblocked gaming platfor
 
 NettleWeb is, and will always be, free and open-source. You can however show us your care by clicking on the **star** button at the top right corner. It would have a significant effect on this project's future development. <br />
 
-[Main Link](https://nettleweb.com/) | [Mirror 1](https://nettleweb.pages.dev/) | [Mirror 2](https://nettleweb.github.io) | [Discord](https://discord.gg/djdH3kVd4v)
+[Main Link](https://not-oceanlakes.github.io/) | [Mirror 1](https://nettleweb.pages.dev/) | [Mirror 2](https://nettleweb.github.io) | [Discord](https://discord.gg/djdH3kVd4v)
 
 ## Features
 - 2500+ free unblocked games
